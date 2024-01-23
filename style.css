@@ -1,0 +1,18 @@
+html,
+body,
+.el {
+  height: 100%;
+  margin: 0;
+}
+.el {
+  margin: auto 2em;
+  text-align: center;
+}
+img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 90%;
+  margin: 20px auto;
+}
